@@ -1,4 +1,4 @@
-# 🖥️ Hybrid-Analyzer | Frontend UI
+# 🖥️ Hybrid Analysis Dashboard
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?logo=react&logoColor=black)
@@ -8,7 +8,7 @@
 
 ## 📖 Contexte du Projet
 
-**Hybrid-Analyzer Frontend** est l'interface utilisateur de la plateforme d'orchestration IA dédiée au media monitoring.
+**Hybrid Analysis Dashboard** est l'interface utilisateur de la plateforme d'orchestration IA dédiée au media monitoring.
 
 Développée avec **Next.js (App Router)**, cette application offre une expérience utilisateur fluide et performante pour interagir avec le backend d'intelligence artificielle. Elle permet l'authentification sécurisée des analystes et la visualisation en temps réel du traitement "Zero-Shot Classification" (Hugging Face) couplé à la synthèse générative (Gemini).
 
