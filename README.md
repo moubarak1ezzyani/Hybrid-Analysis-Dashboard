@@ -6,6 +6,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)
 
+> **Interface de veille média pour la visualisation des classifications et résumés générés par l'IA.**
+
+## 🔗 Lien vers l'API (Backend)
+Ce dashboard consomme les services d'orchestration IA hébergés ici :
+👉 **[Accéder à Hybrid-AI-Orchestrator-API](https://github.com/moubarak1ezzyani/Hybrid-AI-Orchestrator-API.git)**
+
 ## 📖 Contexte du Projet
 
 **Hybrid Analysis Dashboard** est l'interface utilisateur de la plateforme d'orchestration IA dédiée au media monitoring.
